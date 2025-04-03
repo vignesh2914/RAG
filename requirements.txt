@@ -1,0 +1,23 @@
+langchain
+langchain-community
+langchain-groq
+langchain-core
+langchain-ollama
+ipykernel
+python-dotenv
+streamlit
+sentence-transformers
+faiss-cpu
+python-docx
+tensorflow
+tensorflow_hub
+beautifulsoup4
+googlemaps
+geocoder
+geopy
+# crewai==0.98.0
+# crewai-tools==0.32.1
+flask
+fake-useragent
+
+-e .
